@@ -1,2 +1,2 @@
-Testing-Priorization---Data-Generator
+TestingPriorization-DataGenerator
 =====================================
